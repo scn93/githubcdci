@@ -1,6 +1,6 @@
 # githubcdci
 Projet CI-CD
-les captures sont dans la doc
+les captures sont dans le wordpad
  
 
  
